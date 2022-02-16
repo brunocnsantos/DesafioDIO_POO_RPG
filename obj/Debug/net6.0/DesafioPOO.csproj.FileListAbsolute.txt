@@ -1,0 +1,15 @@
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\bin\Debug\net6.0\ref\DesafioPOO.dll
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\ref\DesafioPOO.dll
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\ADM\Documents\Curso DIO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
